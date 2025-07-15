@@ -8,7 +8,7 @@ This project focuses on analyzing a dataset using Microsoft Excel. It includes d
 • Sorting & Filtering
 • Pivot Tables
 • Charts (Bar, Line, Pie)
-• Basic formulas: VLOOKUP, IF, SUMIF, COUNTIF, AVERAGE
+• Basic formulas: (VLOOKUP, IF, SUMIF, COUNTIF, AVERAGE)
 ## Data Analysis Concepts:
 • Descriptive Statistics
 • Trend Identification

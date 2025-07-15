@@ -15,3 +15,5 @@ This project focuses on analyzing a dataset using Microsoft Excel. It includes d
 - Category-wise Comparisons
 - Summary Reports
 
+- Dashboard Interaction <a href="https://github.com/Nandha1604/Coffee-Shop-Data-Analysis-Dashboard/blob/main/Screenshot%202025-07-15%20142959.png">View Sashboard</a>
+

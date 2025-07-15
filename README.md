@@ -4,7 +4,7 @@ This project focuses on analyzing a dataset using Microsoft Excel. It includes d
 - <a href="https://github.com/Nandha1604/Coffee-Shop-Data-Analysis-Dashboard/blob/main/coffee%20shop.py.xlsx">Dataset</a>
 ## Tools & Skills Used
 ## Microsoft Excel:
-• Data Cleaning
+- Data Cleaning
 • Sorting & Filtering
 • Pivot Tables
 • Charts (Bar, Line, Pie)
@@ -14,3 +14,4 @@ This project focuses on analyzing a dataset using Microsoft Excel. It includes d
 • Trend Identification
 • Category-wise Comparisons
 • Summary Reports
+

@@ -23,7 +23,7 @@ This project focuses on analyzing a dataset using Microsoft Excel. It includes d
 
 
 ## Key Analyses Performed
-## 1. Data Cleaning
+## 1.Data Cleaning
 - Removed blanks and invalid entries
 - Standardized text values
 - Converted date columns

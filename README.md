@@ -39,4 +39,20 @@ This project focuses on analyzing a dataset using Microsoft Excel. It includes d
 - Line Chart: Trend over Time
 - Pie Chart: Regional Distribution
 
+## Sample Insights
+- Total sales,Total Foot Fall for coffee shop
+- Month wise Sales and Day wise sales
+- Product Category  had the highest average pre Person
+- Most selling Products
+
+## How to Use
+- 1. Download the Excel file
+- 2. Open with Excel (2016 or above)
+- 3. Navigate through the sheets:
+   - Raw Data
+   - Cleaned Data
+   - Pivot Analysis
+   - Charts
+
+
 

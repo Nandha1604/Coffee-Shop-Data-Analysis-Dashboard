@@ -21,3 +21,22 @@ This project focuses on analyzing a dataset using Microsoft Excel. It includes d
 - The dataset contains information about [e.g., Sales Transactions / Customers / Products / Employees].
 - It includes columns like: Date, Category, Region, Amount, Customer Type, etc.
 
+
+## Key Analyses Performed
+## 1. Data Cleaning
+- Removed blanks and invalid entries
+- Standardized text values
+- Converted date columns
+2. Summary Statistics
+- Total Sales / Count / Average by category
+- Top and bottom performers
+3. Pivot Table Analysis
+- Category-wise and Region-wise performance
+- Monthly/Quarterly trends
+- Customer segmentation
+4. Visualizations
+- Column Chart: Sales per Category
+- Line Chart: Trend over Time
+- Pie Chart: Regional Distribution
+
+

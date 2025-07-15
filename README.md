@@ -5,13 +5,13 @@ This project focuses on analyzing a dataset using Microsoft Excel. It includes d
 ## Tools & Skills Used
 ## Microsoft Excel:
 - Data Cleaning
-• Sorting & Filtering
-• Pivot Tables
-• Charts (Bar, Line, Pie)
-• Basic formulas: (VLOOKUP, IF, SUMIF, COUNTIF, AVERAGE)
+- Sorting & Filtering
+- Pivot Tables
+- Charts (Bar, Line, Pie)
+ Basic formulas: (VLOOKUP, IF, SUMIF, COUNTIF, AVERAGE)
 ## Data Analysis Concepts:
-• Descriptive Statistics
-• Trend Identification
-• Category-wise Comparisons
-• Summary Reports
+- Descriptive Statistics
+- Trend Identification
+- Category-wise Comparisons
+- Summary Reports
 
